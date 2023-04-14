@@ -1,3 +1,8 @@
 .App {
     text-align: center;
 }
+.BlogItem {
+}
+.BlogItem__img{
+    width: 50%;
+}
